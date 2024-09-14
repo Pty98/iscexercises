@@ -1,0 +1,6 @@
+<?xml-model href="Course.xsd"?>
+<Course>
+<name>Math</name>
+<level>Elementary</level>
+<teacher>Dr.Abbasi</teacher>
+</Course>

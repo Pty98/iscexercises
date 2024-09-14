@@ -1,0 +1,12 @@
+
+
+
+<!DOCTYPE Studentinfo SYSTEM "student.dtd">
+<Studentinfo>
+  <firstname>Saba</firstname>
+    <lastname>Mahboob</lastname>
+   <sid>9813119825</sid>
+  <phonenumber>09919536987</phonenumber>
+    <country>Iran</country>
+    <city>Tehran</city>
+</Studentinfo>

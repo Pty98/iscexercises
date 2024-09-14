@@ -1,0 +1,8 @@
+<?xml-model href="Student.xsd"?>
+<Student>
+<firstname>Parisa</firstname>
+<lastname>Taiyari</lastname>
+<phonenumber>09057515591</phonenumber>
+<country>Iran</country>
+<city>Tehran</city>
+</Student>

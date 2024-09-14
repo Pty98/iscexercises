@@ -1,0 +1,7 @@
+<!ELEMENT Studentinfo (firstname,lastname,sid,phonenumber,country,city)>
+<!ELEMENT firstname (#PCDATA)>
+<!ELEMENT lastname (#PCDATA)>
+<!ELEMENT sid (#PCDATA)>
+<!ELEMENT phonenumber (#PCDATA)>
+<!ELEMENT country (#PCDATA)>
+<!ELEMENT city (#PCDATA)>
